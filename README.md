@@ -1,8 +1,8 @@
 # COMP512 Advanced Operating Systems
 
-# Instructor: Dr. Truong Tran
+#### Instructor: Dr. Truong Tran
 
-# Submitted by: Siddharth Rayabharam (nqr5356)
+#### Submitted by: Siddharth Rayabharam (nqr5356)
 
 # Homework 2
 
